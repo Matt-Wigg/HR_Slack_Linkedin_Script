@@ -7,6 +7,7 @@
 
 <p>=============================</p>
 <strong>Please note: If you have 2FA(two-factor authentication) enabled on your Linkedin account, this script will not be able to automatically log you in.</strong>
+<p></p>
 <p>=============================</p>
 
 <p>How to use:</p>
