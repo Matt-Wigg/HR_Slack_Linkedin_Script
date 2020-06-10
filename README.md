@@ -17,4 +17,4 @@
 
 3. Copy the entire text from #linkedin-networking in Slack into the ```HR_Slack_Copy.txt```    <strong>- SAVE CHANGES</strong>
 
-4. Run the script!
+4. Run ```Linkedin_script.py```
