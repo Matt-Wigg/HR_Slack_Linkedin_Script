@@ -11,7 +11,7 @@ from secrets import username, password
 # -------------------- #
 
 # -- Path to chromedriver -- #
-browser = webdriver.Chrome("** Chromedriver PATH HERE ** EG: /Users/mpw/Desktop/LinkedIn Script/chromedriver")
+browser = webdriver.Chrome("*** CHROMEDRIVER PATH HERE - EG: /Users/mpw/Desktop/LinkedIn Script/chromedriver ***")
 
 # -- Global wait time for finding elements -- #
 browser.implicitly_wait(4)
